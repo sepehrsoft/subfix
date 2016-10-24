@@ -1,0 +1,52 @@
+C:\Users\dominator\Desktop\ReadAndWriteInTXT\ReadAndWriteInTXT\bin\Debug\Sub Fix.exe.config
+C:\Users\dominator\Desktop\ReadAndWriteInTXT\ReadAndWriteInTXT\bin\Debug\Sub Fix.exe.manifest
+C:\Users\dominator\Desktop\ReadAndWriteInTXT\ReadAndWriteInTXT\bin\Debug\Sub Fix.application
+C:\Users\dominator\Desktop\ReadAndWriteInTXT\ReadAndWriteInTXT\bin\Debug\Sub Fix.exe
+C:\Users\dominator\Desktop\ReadAndWriteInTXT\ReadAndWriteInTXT\bin\Debug\Sub Fix.pdb
+C:\Users\dominator\Desktop\ReadAndWriteInTXT\ReadAndWriteInTXT\bin\Debug\aa\Sub Fix.resources.dll
+C:\Users\dominator\Desktop\ReadAndWriteInTXT\ReadAndWriteInTXT\bin\Debug\en-US\Sub Fix.resources.dll
+C:\Users\dominator\Desktop\ReadAndWriteInTXT\ReadAndWriteInTXT\bin\Debug\fa-IR\Sub Fix.resources.dll
+C:\Users\dominator\Desktop\ReadAndWriteInTXT\ReadAndWriteInTXT\obj\x86\Debug\subfix.csprojResolveAssemblyReference.cache
+C:\Users\dominator\Desktop\ReadAndWriteInTXT\ReadAndWriteInTXT\obj\x86\Debug\ReadAndWriteInTXT.Form1.resources
+C:\Users\dominator\Desktop\ReadAndWriteInTXT\ReadAndWriteInTXT\obj\x86\Debug\ReadAndWriteInTXT.Properties.Resources.resources
+C:\Users\dominator\Desktop\ReadAndWriteInTXT\ReadAndWriteInTXT\obj\x86\Debug\ReadAndWriteInTXT.Form1.aa.resources
+C:\Users\dominator\Desktop\ReadAndWriteInTXT\ReadAndWriteInTXT\obj\x86\Debug\ReadAndWriteInTXT.Form1.en-US.resources
+C:\Users\dominator\Desktop\ReadAndWriteInTXT\ReadAndWriteInTXT\obj\x86\Debug\ReadAndWriteInTXT.Form1.fa-IR.resources
+C:\Users\dominator\Desktop\ReadAndWriteInTXT\ReadAndWriteInTXT\obj\x86\Debug\subfix.csproj.GenerateResource.Cache
+C:\Users\dominator\Desktop\ReadAndWriteInTXT\ReadAndWriteInTXT\obj\x86\Debug\aa\Sub Fix.resources.dll
+C:\Users\dominator\Desktop\ReadAndWriteInTXT\ReadAndWriteInTXT\obj\x86\Debug\en-US\Sub Fix.resources.dll
+C:\Users\dominator\Desktop\ReadAndWriteInTXT\ReadAndWriteInTXT\obj\x86\Debug\fa-IR\Sub Fix.resources.dll
+C:\Users\dominator\Desktop\ReadAndWriteInTXT\ReadAndWriteInTXT\obj\x86\Debug\Sub Fix.TrustInfo.xml
+C:\Users\dominator\Desktop\ReadAndWriteInTXT\ReadAndWriteInTXT\obj\x86\Debug\Sub Fix.exe.manifest
+C:\Users\dominator\Desktop\ReadAndWriteInTXT\ReadAndWriteInTXT\obj\x86\Debug\Sub Fix.application
+C:\Users\dominator\Desktop\ReadAndWriteInTXT\ReadAndWriteInTXT\obj\x86\Debug\Sub Fix.exe
+C:\Users\dominator\Desktop\ReadAndWriteInTXT\ReadAndWriteInTXT\obj\x86\Debug\Sub Fix.pdb
+C:\Users\dominator\Desktop\ReadAndWriteInTXT\ReadAndWriteInTXT\bin\Debug\en\Sub Fix.resources.dll
+C:\Users\dominator\Desktop\ReadAndWriteInTXT\ReadAndWriteInTXT\obj\x86\Debug\ReadAndWriteInTXT.Form1.en.resources
+C:\Users\dominator\Desktop\ReadAndWriteInTXT\ReadAndWriteInTXT\obj\x86\Debug\en\Sub Fix.resources.dll
+C:\Users\dominator\Desktop\ReadAndWriteInTXT\subfix\bin\Debug\Sub Fix.exe.config
+C:\Users\dominator\Desktop\ReadAndWriteInTXT\subfix\obj\x86\Debug\Sub Fix.exe
+C:\Users\dominator\Desktop\ReadAndWriteInTXT\subfix\obj\x86\Debug\Sub Fix.pdb
+C:\Users\dominator\Desktop\ReadAndWriteInTXT\subfix\bin\Debug\Sub Fix.exe.manifest
+C:\Users\dominator\Desktop\ReadAndWriteInTXT\subfix\bin\Debug\Sub Fix.application
+C:\Users\dominator\Desktop\ReadAndWriteInTXT\subfix\bin\Debug\Sub Fix.exe
+C:\Users\dominator\Desktop\ReadAndWriteInTXT\subfix\bin\Debug\Sub Fix.pdb
+C:\Users\dominator\Desktop\ReadAndWriteInTXT\subfix\bin\Debug\aa\Sub Fix.resources.dll
+C:\Users\dominator\Desktop\ReadAndWriteInTXT\subfix\bin\Debug\en-US\Sub Fix.resources.dll
+C:\Users\dominator\Desktop\ReadAndWriteInTXT\subfix\bin\Debug\en\Sub Fix.resources.dll
+C:\Users\dominator\Desktop\ReadAndWriteInTXT\subfix\bin\Debug\fa-IR\Sub Fix.resources.dll
+C:\Users\dominator\Desktop\ReadAndWriteInTXT\subfix\obj\x86\Debug\subfix.csprojResolveAssemblyReference.cache
+C:\Users\dominator\Desktop\ReadAndWriteInTXT\subfix\obj\x86\Debug\subfix.Form1.resources
+C:\Users\dominator\Desktop\ReadAndWriteInTXT\subfix\obj\x86\Debug\subfix.Properties.Resources.resources
+C:\Users\dominator\Desktop\ReadAndWriteInTXT\subfix\obj\x86\Debug\subfix.Form1.aa.resources
+C:\Users\dominator\Desktop\ReadAndWriteInTXT\subfix\obj\x86\Debug\subfix.Form1.en-US.resources
+C:\Users\dominator\Desktop\ReadAndWriteInTXT\subfix\obj\x86\Debug\subfix.Form1.en.resources
+C:\Users\dominator\Desktop\ReadAndWriteInTXT\subfix\obj\x86\Debug\subfix.Form1.fa-IR.resources
+C:\Users\dominator\Desktop\ReadAndWriteInTXT\subfix\obj\x86\Debug\subfix.csproj.GenerateResource.Cache
+C:\Users\dominator\Desktop\ReadAndWriteInTXT\subfix\obj\x86\Debug\aa\Sub Fix.resources.dll
+C:\Users\dominator\Desktop\ReadAndWriteInTXT\subfix\obj\x86\Debug\en-US\Sub Fix.resources.dll
+C:\Users\dominator\Desktop\ReadAndWriteInTXT\subfix\obj\x86\Debug\en\Sub Fix.resources.dll
+C:\Users\dominator\Desktop\ReadAndWriteInTXT\subfix\obj\x86\Debug\fa-IR\Sub Fix.resources.dll
+C:\Users\dominator\Desktop\ReadAndWriteInTXT\subfix\obj\x86\Debug\Sub Fix.TrustInfo.xml
+C:\Users\dominator\Desktop\ReadAndWriteInTXT\subfix\obj\x86\Debug\Sub Fix.exe.manifest
+C:\Users\dominator\Desktop\ReadAndWriteInTXT\subfix\obj\x86\Debug\Sub Fix.application
